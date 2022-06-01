@@ -18,7 +18,7 @@
 
 ```
 $ cd
-$ rm -rf FILE-CLONE
+$ rm -rf ENCRYPT-PYTHON
 $ pkg update
 $ pkg upgrade
 $ pkg install python
