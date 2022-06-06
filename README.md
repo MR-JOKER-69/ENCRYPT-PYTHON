@@ -29,7 +29,7 @@ $ pip install bs4
 $ pkg install git
 $ git clone https://github.com/MR-JOKER-69/ENCRYPT-PYTHON.git
 $ cd ENCRYPT-PYTHON
-$ python enc.py
+$ python2 enc.py
 
 
 Note: This Tools Are Free, So You Use Free FILE-CLONE Tools Enjoy
